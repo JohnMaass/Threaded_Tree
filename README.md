@@ -7,17 +7,17 @@ as was the driver code.  The ThreadedTree.java contains the implementation of th
 On load there will be two entires that are ommited because they have repeat student ids.  A menu should then appear which
 allows you to pick different options.
 
-1 Add a new student
- 2 Delete a student
- 3 Find a student by ID
- 4 List students by ID increasing
- 5 List students by first name increasing
- 6 List students by last name increasing
- 7 List students by ID decreasing
- 8 List students by first name decreasing
- 9 List students by last name decreasing
- 
- 0 End
+1 Add a new student  
+ 2 Delete a student  
+ 3 Find a student by ID  
+ 4 List students by ID increasing  
+ 5 List students by first name increasing  
+ 6 List students by last name increasing  
+ 7 List students by ID decreasing  
+ 8 List students by first name decreasing  
+ 9 List students by last name decreasing  
+   
+ 0 End  
 
 
 
